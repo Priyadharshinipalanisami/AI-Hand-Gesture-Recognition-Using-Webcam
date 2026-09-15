@@ -96,7 +96,7 @@ AI-Hand-Gesture-Recognition/
 │
 └── demo/
     ├── AI_Hand_Gesture_Recognition_Demo.mp4
-    └── README.md
+    
 💻 System Requirements
 Hardware
 Laptop/Desktop
@@ -112,7 +112,7 @@ Git
 GitHub
 📦 Installation
 1. Clone the Repository
-git clone https://github.com/YOUR-USERNAME/AI-Hand-Gesture-Recognition.git
+git clone https://github.com/Priyadharshinipalanisami/AI-Hand-Gesture-Recognition.git
 cd AI-Hand-Gesture-Recognition
 2. Install Dependencies
 python -m pip install -r requirements.txt
